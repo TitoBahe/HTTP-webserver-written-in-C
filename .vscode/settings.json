@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.ejs": "html",
+    "ip.h": "c",
+    "errno.h": "c"
+  }
+}
